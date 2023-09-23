@@ -10,4 +10,5 @@ namespace Antiban
         public DateTime SentDateTime { get; set; }
         public int EventMessageId { get; set; }
     }
+    //
 }
